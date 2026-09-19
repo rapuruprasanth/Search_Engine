@@ -5,7 +5,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)](https://flask.palletsprojects.com/)
 [![SQLite](https://img.shields.io/badge/SQLite3-Database-lightgrey.svg)](https://www.sqlite.org/)
 [![Theme](https://img.shields.io/badge/Theme-Sherwin--Williams%20Dark-purple.svg)](#-design-system--ui-theme)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://algo-search-engine-tf-idf.onrender.com/)
+[![Live Demo](https://search-engine-krka.onrender.com)](https://search-engine-krka.onrender.com)
 
 ---
 
